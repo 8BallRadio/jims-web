@@ -24,14 +24,14 @@
       <h2 class="jim-name">JIM WALROD</h2>
     </div>
     <p>
-      8-Ball Community has created the Jim’s Web mentorship program to keep this
+      8-Ball Community has created the Jim's Web mentorship program to keep this
       spirit alive. The program will connect established arts professionals with
       emerging creatives to help them realize creative projects around a theme,
       in fields including fashion design, fine art, architecture/interiors,
-      product design, publishing, and photography. The inaugural theme for Jim’s
-      Web is “community”, in honor of Jim’s ability to bring people together.
+      product design, publishing, and photography. The inaugural theme for Jim's
+      Web is “community”, in honor of Jim's ability to bring people together.
       Six mentorships -one in each discipline- will be awarded annually.
-      Awardees will receive a grant of $3,000 and access to their mentor’s
+      Awardees will receive a grant of $3,000 and access to their mentor's
       studio or office space to realize their project over a six month period.
       The projects will be showcased in a group exhibition at the end of the
       program.
