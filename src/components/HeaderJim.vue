@@ -11,7 +11,7 @@ export default {
     };
   },
   methods: {
-    handleScroll: function(evt) {
+    handleScroll: function() {
       const header = document.querySelector(".header");
       const windowHeight = window.innerHeight;
       let position = this.getPosition(header);
