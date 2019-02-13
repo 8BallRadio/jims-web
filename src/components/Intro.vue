@@ -5,8 +5,7 @@
       :class="photoHover"
       src="../assets/jim.png"
       alt="Jim sitting on a chair with his bare foot on top of an ottoman"
-      sizes
-      srcset
+      srcset="../assets/jimtiny.png 479w, ../assets/jim.png 767w, ../assets/jimbig.png 2x"
     >
     <img
       class="logo"
@@ -51,12 +50,8 @@ export default {
 
 <style lang="scss" scoped>
 .logo {
-  width: 70vw;
+  width: 50vmin;
   margin-top: 16px;
-
-  @media (min-width: 479px) {
-    width: 45vmin;
-  }
 
   @media (min-width: 767px) {
     width: 40vmin;
