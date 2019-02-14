@@ -54,7 +54,8 @@ export default {
     };
   },
   methods: {
-    showPhoto: function() {
+    showPhoto: function(evt) {
+      evt.preventDefault();
       this.isHover = !this.isHover;
     }
   },
