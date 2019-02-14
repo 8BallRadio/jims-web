@@ -21,6 +21,7 @@ body {
   background-color: $page-background;
   margin: 0 auto;
   max-width: 80vw;
+  overscroll-behavior-y: contain;
 }
 
 h1,
