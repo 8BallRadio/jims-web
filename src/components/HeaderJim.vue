@@ -15,6 +15,7 @@
   -webkit-animation: slide-in-top 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94) 1s
     both;
   animation: slide-in-top 0.5s cubic-bezier(0.25, 0.46, 0.45, 0.94) 1s both;
+  z-index: 2;
 }
 
 .header__text {
