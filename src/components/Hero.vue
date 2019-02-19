@@ -33,10 +33,12 @@
 }
 
 .arrow {
-  font-size: 60px;
-  font-weight: bold;
+  font-size: 40px;
   margin-top: 64px;
   -webkit-animation: bounce-top 2s ease-in both;
   animation: bounce-top 2s ease-in both;
+  @media (min-width: 767px) {
+    font-size: 60px;
+  }
 }
 </style>
