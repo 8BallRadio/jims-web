@@ -15,6 +15,7 @@
         srcset="../assets/spiderweb-fb-2x.png 2x"
       />
     </picture>
+    <div class="arrow">&#709;</div>
   </section>
 </template>
 <style lang="scss" scoped>
@@ -23,10 +24,19 @@
   justify-content: center;
   align-items: center;
   height: 100vh;
+  flex-direction: column;
 }
 
 .spiderweb img {
   display: block;
   width: 80vmin;
+}
+
+.arrow {
+  font-size: 60px;
+  font-weight: bold;
+  margin-top: 64px;
+  -webkit-animation: bounce-top 2s ease-in both;
+  animation: bounce-top 2s ease-in both;
 }
 </style>
