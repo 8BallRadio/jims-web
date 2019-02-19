@@ -1,5 +1,5 @@
 <template>
-  <section class="info">
+  <section id="info" class="info">
     <article class="about">
       <h3>ABOUT JIM’S WEB</h3>
       <p>
@@ -63,7 +63,26 @@
     </article>
   </section>
 </template>
+<script>
+export default {
+  name: "Info",
+  mounted() {
+    this.$root.$on("clickedHowTo", () => {
+      document.getElementById("info").scrollIntoView({
+        behavior: "smooth",
+        block: "start",
+        inline: "nearest"
+      });
+    });
+  }
+};
+</script>
+
 <style lang="scss" scoped>
+.how-to h3 {
+  color: $secondary-color;
+  border-bottom-color: $secondary-color;
+}
 @media (min-width: 767px) {
   @supports (display: grid) {
     .info {
