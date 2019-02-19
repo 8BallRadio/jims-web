@@ -9,7 +9,7 @@
 <style lang="scss" scoped>
 footer {
   border-top: 2px dashed $secondary-color;
-  margin: 32px 0 16px;
+  margin: 64px 0 16px;
   padding: 16px 0;
 }
 </style>
