@@ -15,7 +15,9 @@
         srcset="../assets/spiderweb-fb-2x.png 2x"
       />
     </picture>
-    <div class="arrow">&#709;</div>
+    <div class="arrow-container">
+      <span class="arrow"></span>
+    </div>
   </section>
 </template>
 <style lang="scss" scoped>
@@ -32,13 +34,27 @@
   width: 80vmin;
 }
 
-.arrow {
-  font-size: 40px;
-  margin-top: 64px;
+.arrow-container {
+  display: inline-block;
+  margin-top: 32px;
   -webkit-animation: bounce-top 2s ease-in both;
   animation: bounce-top 2s ease-in both;
+}
+
+.arrow {
+  transform: rotate(135deg);
+  display: inline-block;
+  width: 25px;
+  height: 25px;
+  border-top: 2px solid #000;
+  border-right: 2px solid #000;
+  @media (min-width: 479px) {
+    width: 30px;
+    height: 30px;
+  }
   @media (min-width: 767px) {
-    font-size: 60px;
+    width: 35px;
+    height: 35px;
   }
 }
 </style>
