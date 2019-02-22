@@ -57,7 +57,7 @@
         accomplishable within the six months period. (500 word limit)
       </p>
       <p>
-        Relate the project to this year ́s theme of community and your
+        Relate the project to this year's theme of community and your
         interpretation of it.
       </p>
     </article>
