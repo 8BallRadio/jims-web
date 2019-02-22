@@ -1,5 +1,5 @@
 <template>
-  <section id="info" class="info">
+  <section class="info">
     <article class="about">
       <h3>ABOUT JIM’S WEB</h3>
       <p>
@@ -48,7 +48,7 @@
         be made by DATE, and all mentorships must begin by March 1, 2019.
       </p>
     </article>
-    <article class="how-to">
+    <article id="how-to" class="how-to">
       <h3>HOW TO APPLY</h3>
       <p>What category would you like to apply for?</p>
       <p>Send a brief introduction about yourself. (200 word limit)</p>
@@ -68,7 +68,7 @@ export default {
   name: "Info",
   mounted() {
     this.$root.$on("clickedHowTo", () => {
-      document.getElementById("info").scrollIntoView({
+      document.getElementById("how-to").scrollIntoView({
         behavior: "smooth",
         block: "start",
         inline: "nearest"
