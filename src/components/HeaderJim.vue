@@ -42,7 +42,6 @@ export default {
   background-color: transparent;
   cursor: pointer;
   font-family: "Courier New", Courier, monospace;
-  font-weight: bold;
 }
 
 .btn__how-to {
