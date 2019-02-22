@@ -6,5 +6,10 @@ module.exports = {
       preProcessor: "scss",
       patterns: [path.resolve(__dirname, "./src/styles/main.scss")]
     }
+  },
+  pwa: {
+    name: "Jim's Web",
+    themeColor: "#bf2312",
+    msTileColor: "#bf2312"
   }
 };
