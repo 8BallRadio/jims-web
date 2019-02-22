@@ -1,6 +1,6 @@
 {
-  "name": "jims-web",
-  "short_name": "jims-web",
+  "name": "Jims Web",
+  "short_name": "Jims Web",
   "icons": [
     {
       "src": "./img/icons/android-chrome-192x192.png",
