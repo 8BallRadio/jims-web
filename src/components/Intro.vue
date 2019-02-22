@@ -7,18 +7,18 @@
       alt="Jim sitting on a chair with his bare foot on top of an ottoman"
       srcset="../assets/jimtiny.png 479w, ../assets/jim.png 767w, ../assets/jimbig.png 2x"
     />
-    <img
-      class="logo"
-      src="../assets/logo.png"
-      alt="Jim's Web Logo"
-      srcset="../assets/logotiny.png 479w, ../assets/logo.png 767w, ../assets/logobig.png 2x"
-    />
     <div
       id="mentorship-title"
       class="mentorship-title"
       @mouseenter="showPhoto"
       @mouseleave="showPhoto"
     >
+      <img
+        class="logo"
+        src="../assets/logo.png"
+        alt="Jim's Web Logo"
+        srcset="../assets/logotiny.png 479w, ../assets/logo.png 767w, ../assets/logobig.png 2x"
+      />
       <h2>MENTORSHIP PROGRAM</h2>
       <h2>IN MEMORY OF</h2>
       <h2 class="jim-name">JIM WALROD</h2>
