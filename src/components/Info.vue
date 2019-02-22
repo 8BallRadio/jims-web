@@ -70,8 +70,7 @@ export default {
     this.$root.$on("clickedHowTo", () => {
       document.getElementById("how-to").scrollIntoView({
         behavior: "smooth",
-        block: "start",
-        inline: "nearest"
+        block: "nearest"
       });
     });
   }
