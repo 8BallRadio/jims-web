@@ -9,7 +9,7 @@ module.exports = {
   },
   pwa: {
     name: "Jim's Web",
-    themeColor: "#bf2312",
-    msTileColor: "#bf2312"
+    themeColor: "#e83158",
+    msTileColor: "#e83158"
   }
 };
