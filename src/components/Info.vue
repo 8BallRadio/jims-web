@@ -23,22 +23,27 @@
         mentor’s studio space over the course of the six month term. The
         completed projects will be showcased in a group exhibition.
       </p>
+    </article>
+    <article class="mentors">
       <h3>MENTORS</h3>
-      <p>Dong-Ping Wong</p>
-      <a href="http://food-newyork.com/" rel="nofollow" target="_blank"
-        >http://food-newyork.com/</a
-      >
-      <p>Landon Metz</p>
-      <a
-        href="https://www.skny.com/artists/landon-metz"
-        rel="nofollow"
-        target="_blank"
-        >https://www.skny.com/artists/landon-metz</a
-      >
-      <p>Jeremy Liebman</p>
-      <a href="http://jeremyliebman.com/" rel="nofollow" target="_blank"
-        >http://jeremyliebman.com/</a
-      >
+      <div>
+        <p>Dong-Ping Wong</p>
+        <a href="http://food-newyork.com/" rel="nofollow" target="_blank">http://food-newyork.com/</a>
+        <p>Landon Metz</p>
+        <a
+          href="https://www.skny.com/artists/landon-metz"
+          rel="nofollow"
+          target="_blank"
+        >https://www.skny.com/artists/landon-metz</a>
+        <p>Jeremy Liebman</p>
+        <a href="http://jeremyliebman.com/" rel="nofollow" target="_blank">http://jeremyliebman.com/</a>
+      </div>
+      <div>
+        <p>Leon Ransmeier</p>
+        <a href="http://ransmeier.com/" rel="nofollow" target="_blank">http://ransmeier.com/</a>
+        <p>Kim Hastreiter</p>
+        <a href="http://vimeo.com/82135130" rel="nofollow" target="_blank">http://vimeo.com/82135130</a>
+      </div>
     </article>
     <article class="eligibility">
       <h3>ELIGIBILITY REQUIREMENTS</h3>
@@ -76,9 +81,7 @@
         Relate the project to this year's theme of community and your
         interpretation of it.
       </p>
-      <a class="apply-link" href="#" rel="nofollow" target="_blank"
-        >Apply here</a
-      >
+      <a class="apply-link" href="#" rel="nofollow" target="_blank">Apply here</a>
     </article>
   </section>
 </template>
@@ -118,7 +121,18 @@ export default {
     }
 
     .about {
-      grid-row: 1 / 4;
+      grid-row: 1 / 3;
+    }
+
+    .mentors {
+      grid-row: 3;
+      grid-column: span 2;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+    }
+
+    .mentors h3 {
+      grid-column: span 2;
     }
 
     .how-to {
