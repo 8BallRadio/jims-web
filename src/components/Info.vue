@@ -76,7 +76,7 @@
         Relate the project to this year's theme of community and your
         interpretation of it.
       </p>
-      <a class="apply-link" href="#" rel="nofollow" target="_blank">Apply here</a>
+      <a class="apply-link" href="https://forms.gle/8YSHPGJcMUANkjgp9" rel="nofollow" target="_blank">Apply here</a>
     </article>
   </section>
 </template>
