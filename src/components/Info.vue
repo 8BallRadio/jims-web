@@ -45,7 +45,7 @@
       <p>No age requirement.</p>
       <p>
         Participants must be able and available to complete their project
-        between February and August 2019. Mentorship projects must be completed
+        between June 15th to Sept 15th. Mentorship projects must be completed
         by September 1st.
       </p>
     </article>
