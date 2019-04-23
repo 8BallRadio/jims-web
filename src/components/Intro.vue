@@ -35,7 +35,7 @@
       meaningful relationships.
     </p>
     <p>
-      We are currently seeking mentors to contribute their expertise to one
+      Mentors will contribute their expertise to one
       mentee over a six month period. Mentors will need to provide their mentee
       access to their studio or office twice a month throughout the six month
       mentorship period (between February and August 2019) and advise the mentee
