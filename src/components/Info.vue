@@ -59,6 +59,7 @@
         In addition to completing the form, applicants must submit up to 6
         samples of past work (with explanations if needed) as a single PDF.
       </p>
+      <p>Candidates interested in participating as a mentee must complete the JIM’S WEB APPLICATION FORM by May 25th.</p>
       <p>
         Applications will be reviewed by a group of expertees in each field. A final decision will be made by June 5th, and all mentorships must begin by June 15th, 2019.
       </p>
