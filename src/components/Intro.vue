@@ -36,7 +36,7 @@
     </p>
     <p>
       Mentors will contribute their expertise to one
-      mentee over a six month period. Mentors will need to provide their mentee
+      mentee over a four month period. Mentors will need to provide their mentee
       access to their studio or office twice a month throughout the six month
       mentorship period (between June and September 2019) and advise the mentee
       on their proposed project.
