@@ -60,8 +60,7 @@
         samples of past work (with explanations if needed) as a single PDF.
       </p>
       <p>
-        Applications will be reviewed by a group of XXXXX. A final decision will
-        be made by DATE, and all mentorships must begin by March 1, 2019.
+        Applications will be reviewed by a group of expertees in each field. A final decision will be made by June 5th, and all mentorships must begin by June 15th, 2019.
       </p>
     </article>
     <article id="how-to" class="how-to">
