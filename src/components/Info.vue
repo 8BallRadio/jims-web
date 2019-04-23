@@ -27,22 +27,17 @@
     <article class="mentors">
       <h3>MENTORS</h3>
       <div>
-        <p>Dong-Ping Wong</p>
-        <a href="http://food-newyork.com/" rel="nofollow" target="_blank">http://food-newyork.com/</a>
-        <p>Landon Metz</p>
+        <a href="http://food-newyork.com/" rel="nofollow" target="_blank">Dong-Ping Wong</a>
         <a
           href="https://www.skny.com/artists/landon-metz"
           rel="nofollow"
           target="_blank"
-        >https://www.skny.com/artists/landon-metz</a>
-        <p>Jeremy Liebman</p>
-        <a href="http://jeremyliebman.com/" rel="nofollow" target="_blank">http://jeremyliebman.com/</a>
+        >Landon Metz</a>
+        <a href="http://jeremyliebman.com/" rel="nofollow" target="_blank">Jeremy Liebman</a>
       </div>
       <div>
-        <p>Leon Ransmeier</p>
-        <a href="http://ransmeier.com/" rel="nofollow" target="_blank">http://ransmeier.com/</a>
-        <p>Kim Hastreiter</p>
-        <a href="http://vimeo.com/82135130" rel="nofollow" target="_blank">http://vimeo.com/82135130</a>
+        <a href="http://ransmeier.com/" rel="nofollow" target="_blank">Leon Ransmeier</a>
+        <a href="http://vimeo.com/82135130" rel="nofollow" target="_blank">Kim Hastreiter</a>
       </div>
     </article>
     <article class="eligibility">
