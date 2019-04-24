@@ -17,7 +17,7 @@
       <ul>
         <li>Architecture / Interiors</li>
         <li>Fashion Design</li>
-        <li>Fine Art</li>
+        <li>Fine Arts</li>
         <li>Product Design</li>
         <li>Photography</li>
         <li>Publishing</li>
@@ -31,7 +31,7 @@
     <article class="mentors">
       <h3>MENTORS</h3>
       <div>
-        <p>Achitecture: <a href="http://food-newyork.com/" rel="nofollow" target="_blank">Dong-Ping Wong</a></p>
+        <p>Architecture: <a href="http://food-newyork.com/" rel="nofollow" target="_blank">Dong-Ping Wong</a></p>
         <p>Fashion Design: Cynthia Leung</p>
         <p>Fine Arts: <a
           href="https://www.skny.com/artists/landon-metz"
