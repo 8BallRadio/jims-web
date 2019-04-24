@@ -7,6 +7,10 @@
         creative professionals who can advise them on a project.
       </p>
       <p>
+      Mentors will contribute their expertise to one mentee over a four month period. Mentors will provide access to their studio or office twice a month throughout the
+      mentorship period (between June and September 2019) and advise the mentee on their proposed project.
+    </p>
+      <p>
         Six mentorships will be awarded each year, one in each of the following
         disciplines:
       </p>
@@ -19,63 +23,46 @@
         <li>Publishing</li>
       </ul>
       <p>
-        Each awardee will receive a grant of $3,000 and access to to their
-        mentor’s studio space over the course of the six month term. The
+        Each awardee will receive a grant of $3,000 and access to their
+        mentor’s studio space over the course of the four month term. The
         completed projects will be showcased in a group exhibition.
       </p>
     </article>
     <article class="mentors">
       <h3>MENTORS</h3>
       <div>
-        <p><a href="http://food-newyork.com/" rel="nofollow" target="_blank">Dong-Ping Wong</a></p>
-        <p><a
+        <p>Achitecture: <a href="http://food-newyork.com/" rel="nofollow" target="_blank">Dong-Ping Wong</a></p>
+        <p>Fashion Design: Cynthia Leung</p>
+        <p>Fine Arts: <a
           href="https://www.skny.com/artists/landon-metz"
           rel="nofollow"
           target="_blank"
         >Landon Metz</a></p>
-        <p><a href="http://jeremyliebman.com/" rel="nofollow" target="_blank">Jeremy Liebman</a></p>
       </div>
       <div>
-        <p><a href="http://ransmeier.com/" rel="nofollow" target="_blank">Leon Ransmeier</a></p>
-        <p><a href="http://vimeo.com/82135130" rel="nofollow" target="_blank">Kim Hastreiter</a></p>
+      <p>Photography: <a href="http://jeremyliebman.com/" rel="nofollow" target="_blank">Jeremy Liebman</a></p>
+        <p>Product Design: <a href="http://ransmeier.com/" rel="nofollow" target="_blank">Leon Ransmeier</a> and Tiffany Lambert</p>
+        <p>Publishing: <a href="http://vimeo.com/82135130" rel="nofollow" target="_blank">Kim Hastreiter</a></p>
       </div>
     </article>
     <article class="eligibility">
       <h3>ELIGIBILITY REQUIREMENTS</h3>
       <p>No age requirement.</p>
       <p>
-        Participants must be able and available to complete their project
-        between June 15th to Sept 15th. Mentorship projects must be completed
-        by September 1st.
+        Participants must be able to complete their project
+        between June 15th and Sept 15th.
       </p>
     </article>
-    <article class="application">
+    <article id="how-to" class="application">
       <h3>APPLICATION PROCESS</h3>
-      <p>
-        Candidates interested in participating as a mentee must complete the
-        JIM’S WEB APPLICATION FORM by DATE.
-      </p>
       <p>
         In addition to completing the form, applicants must submit up to 6
         samples of past work (with explanations if needed) as a single PDF.
       </p>
       <p>Candidates interested in participating as a mentee must complete the JIM’S WEB APPLICATION FORM by May 25th.</p>
-      <p>
-        Applications will be reviewed by a group of expertees in each field. A final decision will be made by June 5th, and all mentorships must begin by June 15th, 2019.
-      </p>
+      <p>Final decisions will be made by June 5th, and all mentorships will begin by June 15th, 2019.</p>
     </article>
-    <article id="how-to" class="how-to">
-      <h3>HOW TO APPLY</h3>
-      <p>What category would you like to apply for?</p>
-      <p>Send a brief introduction about yourself. (200 word limit)</p>
-      <p>
-        Send a description of a project you'd like to pursue that is
-        accomplishable within the six months period. (500 word limit)
-      </p>
-      <p>
-        Relate the project to this year's theme of community and your
-        interpretation of it.
-      </p>
+    <article class="how-to">
       <a class="apply-link" href="https://forms.gle/8YSHPGJcMUANkjgp9" rel="nofollow" target="_blank">Apply here</a>
     </article>
   </section>
@@ -135,7 +122,7 @@ export default {
     }
 
     .apply-link {
-      font-size: 18px;
+      font-size: 25px;
     }
   }
 }
