@@ -82,9 +82,8 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-.how-to h3 {
-  color: $secondary-color;
-  border-bottom-color: $secondary-color;
+.how-to {
+  margin-top: 3rem;
 }
 
 .apply-link {
