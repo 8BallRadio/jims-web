@@ -34,8 +34,6 @@
       happiest when connecting people with one another—spinning a web of
       meaningful relationships.
     </p>
-    <p>Jim’s Web is a mentorship program that connects emerging creatives with creative professionals who can advise them on a project. The program is run by 8-Ball Community, a not-for-profit organization that generates collaborative and educational creative exchange through free, open-access platforms and events.
-    </p>
   </section>
 </template>
 <script>
