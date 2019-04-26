@@ -35,7 +35,11 @@
 }
 
 .spiderweb-img {
-  margin-right: 73px;
+  margin-right: 30px;
+  
+  @media (min-width: 767px) {
+    margin-right: 73px;
+  }
 }
 
 .arrow-container {
