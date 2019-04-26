@@ -28,23 +28,6 @@
         completed projects will be showcased in a group exhibition.
       </p>
     </article>
-    <article class="mentors">
-      <h3>MENTORS</h3>
-      <div>
-        <p>Architecture: <a href="http://food-newyork.com/" rel="nofollow" target="_blank">Dong-Ping Wong</a></p>
-        <p>Fashion Design: Cynthia Leung</p>
-        <p>Fine Arts: <a
-          href="https://www.skny.com/artists/landon-metz"
-          rel="nofollow"
-          target="_blank"
-        >Landon Metz</a></p>
-      </div>
-      <div>
-      <p>Photography: <a href="http://jeremyliebman.com/" rel="nofollow" target="_blank">Jeremy Liebman</a></p>
-        <p>Product Design: <a href="http://ransmeier.com/" rel="nofollow" target="_blank">Leon Ransmeier</a> and Tiffany Lambert</p>
-        <p>Publishing: <a href="http://vimeo.com/82135130" rel="nofollow" target="_blank">Kim Hastreiter</a></p>
-      </div>
-    </article>
     <article class="eligibility">
       <h3>ELIGIBILITY REQUIREMENTS</h3>
       <p>No age requirement.</p>
@@ -62,8 +45,34 @@
       <p>Candidates interested in participating as a mentee must complete the JIM’S WEB APPLICATION FORM by May 25th.</p>
       <p>Final decisions will be made by June 5th, and all mentorships will begin by June 15th, 2019.</p>
     </article>
-    <article class="how-to">
+    <article class="apply-btn">
       <a class="apply-link" href="https://forms.gle/8YSHPGJcMUANkjgp9" rel="nofollow" target="_blank">Apply here</a>
+    </article>
+    <article class="mentors">
+      <h3>MENTORS</h3>
+      <div>
+        <p>Architecture: <a href="http://food-newyork.com/" rel="nofollow" target="_blank">Dong-Ping Wong</a></p>
+        <p>Fashion Design: Cynthia Leung</p>
+        <p>Fine Arts: <a
+          href="https://www.skny.com/artists/landon-metz"
+          rel="nofollow"
+          target="_blank"
+        >Landon Metz</a></p>
+      </div>
+      <div>
+      <p>Photography: <a href="http://jeremyliebman.com/" rel="nofollow" target="_blank">Jeremy Liebman</a></p>
+        <p>Product Design: <a href="http://ransmeier.com/" rel="nofollow" target="_blank">Leon Ransmeier</a> and Tiffany Lambert</p>
+        <p>Publishing: <a href="http://vimeo.com/82135130" rel="nofollow" target="_blank">Kim Hastreiter</a></p>
+      </div>
+    </article>
+    <article>
+      <h3>ABOUT 8-BALL COMMUNITY</h3>
+      <p>
+        8-Ball is an independent non-profit organization that — through free, open- access platforms and events — nurtures and supports a community of artists.
+      </p>
+      <p>We provide virtual and physical meeting sites for people of all scenes, generations and backgrounds.</p>
+      <p>Our mission is to generate collaborative and educational exchange through public access television and radio station, an imprint, a self publishing fair, a public library, an internship program, a residency and series of workshops in art-related trades.</p>
+      <p>8-Ball Community operates free of elitism and is governed by its participants.</p>
     </article>
   </section>
 </template>
@@ -82,7 +91,7 @@ export default {
 </script>
 
 <style lang="scss" scoped>
-.how-to {
+.apply-btn {
   margin-top: 3rem;
 }
 
