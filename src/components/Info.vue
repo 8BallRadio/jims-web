@@ -2,10 +2,8 @@
   <section class="info">
     <article class="about">
       <h3>ABOUT JIM’S WEB</h3>
-      <p>
-        Jim’s Web is a mentorship program that connects emerging creatives with
-        creative professionals who can advise them on a project.
-      </p>
+      <p>Jim’s Web is a mentorship program that connects emerging creatives with creative professionals who can advise them on a project. The program is run by 8-Ball Community, a not-for-profit organization that generates collaborative and educational creative exchange through free, open-access platforms and events.
+    </p>
       <p>
       Mentors will contribute their expertise to one mentee over a four month period. Mentors will provide access to their studio or office twice a month throughout the
       mentorship period (between June and September 2019) and advise the mentee on their proposed project.
@@ -67,8 +65,7 @@
     </article>
     <article class="about-community">
       <h3>ABOUT 8-BALL COMMUNITY</h3>
-      <p>Jim’s Web is a mentorship program that connects emerging creatives with creative professionals who can advise them on a project. The program is run by 8-Ball Community, a not-for-profit organization that generates collaborative and educational creative exchange through free, open-access platforms and events.
-    </p>
+      <p>8-Ball is an independent non-profit organization that — through free, open- access platforms and events — nurtures and supports a community of artists.</p>
       <p>We provide virtual and physical meeting sites for people of all scenes, generations and backgrounds.</p>
       <p>Our mission is to generate collaborative and educational exchange through public access television and radio station, an imprint, a self publishing fair, a public library, an internship program, a residency and series of workshops in art-related trades.</p>
       <p>8-Ball Community operates free of elitism and is governed by its participants.</p>
