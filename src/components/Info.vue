@@ -65,7 +65,7 @@
     <article class="apply-btn">
       <a class="apply-link" href="https://forms.gle/8YSHPGJcMUANkjgp9" rel="nofollow" target="_blank">Apply here</a>
     </article>
-    <article>
+    <article class="about-community">
       <h3>ABOUT 8-BALL COMMUNITY</h3>
       <p>
         8-Ball is an independent non-profit organization that — through free, open- access platforms and events — nurtures and supports a community of artists.
@@ -134,7 +134,6 @@ export default {
     }
     
     .about-community {
-      grid-row: 6;
       grid-column: span 2;
     }
   }
