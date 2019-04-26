@@ -1,6 +1,6 @@
 <template>
   <footer role="contentinfo">
-    <a href="8ballcommunity.club" target="_blank" rel="noopener"
+    <a href="https://8ballcommunity.club/" target="_blank" rel="noopener"
       >8ballcommunity.club</a
     >
     - ©2019 8 BALL COMMUNITY All rights reserved
