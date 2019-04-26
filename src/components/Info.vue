@@ -45,9 +45,6 @@
       <p>Candidates interested in participating as a mentee must complete the JIM’S WEB APPLICATION FORM by May 25th.</p>
       <p>Final decisions will be made by June 5th, and all mentorships will begin by June 15th, 2019.</p>
     </article>
-    <article class="apply-btn">
-      <a class="apply-link" href="https://forms.gle/8YSHPGJcMUANkjgp9" rel="nofollow" target="_blank">Apply here</a>
-    </article>
     <article class="mentors">
       <h3>MENTORS</h3>
       <div>
@@ -64,6 +61,9 @@
         <p>Product Design: <a href="http://ransmeier.com/" rel="nofollow" target="_blank">Leon Ransmeier</a> and Tiffany Lambert</p>
         <p>Publishing: <a href="http://vimeo.com/82135130" rel="nofollow" target="_blank">Kim Hastreiter</a></p>
       </div>
+    </article>
+    <article class="apply-btn">
+      <a class="apply-link" href="https://forms.gle/8YSHPGJcMUANkjgp9" rel="nofollow" target="_blank">Apply here</a>
     </article>
     <article>
       <h3>ABOUT 8-BALL COMMUNITY</h3>
