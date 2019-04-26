@@ -92,7 +92,7 @@ export default {
 
 <style lang="scss" scoped>
 .apply-btn {
-  margin-top: 3rem;
+  margin: 3rem 0;
 }
 
 .apply-link {
@@ -131,6 +131,11 @@ export default {
 
     .apply-link {
       font-size: 25px;
+    }
+    
+    .about-community {
+      grid-row: 6;
+      grid-column: span 2;
     }
   }
 }
