@@ -56,7 +56,7 @@
       </div>
       <div>
       <p>Photography: <a href="http://jeremyliebman.com/" rel="nofollow" target="_blank">Jeremy Liebman</a></p>
-        <p>Product Design: <a href="http://ransmeier.com/" rel="nofollow" target="_blank">Leon Ransmeier</a> and Tiffany Lambert</p>
+        <p>Product Design: <a href="http://ransmeier.com/" rel="nofollow" target="_blank">Leon Ransmeier</a> and <a href="http://www.tiffany-lambert.com/" rel="nofollow" target="_blank">Tiffany Lambert</a></p>
         <p>Publishing: <a href="http://vimeo.com/82135130" rel="nofollow" target="_blank">Kim Hastreiter</a></p>
       </div>
     </article>
