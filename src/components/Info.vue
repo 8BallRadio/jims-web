@@ -37,7 +37,7 @@
     <article id="how-to" class="application">
       <h3>APPLICATION PROCESS</h3>
       <p>
-        In addition to completing the form, applicants must submit up to 6
+        In addition to completing the form, applicants must submit up to 5
         samples of past work (with explanations if needed) as a single PDF.
       </p>
       <p>Candidates interested in participating as a mentee must complete the JIM’S WEB APPLICATION FORM by May 25th.</p>
