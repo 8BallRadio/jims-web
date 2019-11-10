@@ -10,35 +10,34 @@
         open-access platforms and events.
       </p>
       <p>
+        Jim’s Web came together from the decision of Jim’s dear friends Laila
+        Gohar, Omar Sosa and Jeremy Liebman and Jim’s sister Kathleen Walrod to
+        collaborate with 8-Ball Community, an organization Jim loved and
+        supported. The intention was to honor their brother and friend’s knack
+        for forming webs between artists of all fields through Jim’s own social
+        network, creating unlikely friendships and collaborators along the way.
+      </p>
+      <p>
         Mentors will contribute their expertise to one mentee over a four month
-        period. Mentors will provide access to their studio or office twice a
-        month throughout the mentorship period (between June and September 2019)
-        and advise the mentee on their proposed project.
+        period. Mentors will provide access to their studio or office throughout
+        the mentorship period and advise the mentee on their proposed project.
       </p>
       <p>
-        Six mentorships will be awarded each year, one in each of the following
-        disciplines:
+        Six mentorships will be awarded each year.
       </p>
-      <ul>
-        <li>Architecture / Interiors</li>
-        <li>Fashion Design</li>
-        <li>Fine Arts</li>
-        <li>Product Design</li>
-        <li>Photography</li>
-        <li>Publishing</li>
-      </ul>
       <p>
-        Each awardee will receive a grant of $3,000 and access to their mentor’s
-        studio space over the course of the four month term. The completed
-        projects will be showcased in a group exhibition.
+        Each awardee will receive a grant of $3,000 to help them produce their
+        proposed project. The completed projects will be showcased in a group
+        exhibition at the end of the program. You can see images of our 2019
+        shows here.
       </p>
     </article>
     <article class="eligibility">
       <h3>ELIGIBILITY REQUIREMENTS</h3>
       <p>No age requirement.</p>
       <p>
-        Participants must be able to complete their project between June 15th
-        and Sept 15th.
+        Participants must be able to complete their project over 4 months
+        period.
       </p>
     </article>
     <article id="how-to" class="application">
@@ -48,16 +47,11 @@
         samples of past work (with explanations if needed) as a single PDF.
       </p>
       <p>
-        Candidates interested in participating as a mentee must complete the
-        JIM’S WEB APPLICATION FORM by May 25th.
-      </p>
-      <p>
-        Final decisions will be made by June 5th, and all mentorships will begin
-        by June 15th, 2019.
+        2020 application will be opening soon.
       </p>
     </article>
     <article class="mentors">
-      <h3>MENTORS</h3>
+      <h3>2019 MENTORS</h3>
       <div>
         <p>
           Architecture:
@@ -104,7 +98,32 @@
         </p>
       </div>
     </article>
-    <article class="apply-btn">
+    <article class="awardees">
+      <h3>2019 AWARDEES</h3>
+      <div>
+        <p>
+          Architecture: Tova Kleiner
+        </p>
+        <p>
+          Fashion: Nicole McLaughlin
+        </p>
+        <p>
+          Fine Art: K. Wentrcek &amp; A. Zebulon
+        </p>
+      </div>
+      <div>
+        <p>
+          Photography: Kimari Hazward
+        </p>
+        <p>
+          Product Design: Daniel Castillo
+        </p>
+        <p>
+          Publishing: Claire Hungerford
+        </p>
+      </div>
+    </article>
+    <!-- <article class="apply-btn">
       <a
         class="apply-link"
         href="https://forms.gle/8YSHPGJcMUANkjgp9"
@@ -112,7 +131,7 @@
         target="_blank"
         >Apply here</a
       >
-    </article>
+    </article> -->
     <article class="about-community">
       <h3>ABOUT 8-BALL COMMUNITY</h3>
       <p>
@@ -157,13 +176,17 @@ export default {
 }
 
 .apply-link {
-  color: #d4e5ed;
   background-color: #bf2312;
-  padding: 3px 6px;
+  color: #d4e5ed;
   font-family: "Futura", sans-serif;
+  padding: 3px 6px;
   text-transform: uppercase;
 }
-@media (min-width: 767px) {
+
+.info {
+  display: block;
+}
+@media (min-width: 770px) {
   @supports (display: grid) {
     .info {
       display: grid;
@@ -172,18 +195,35 @@ export default {
     }
 
     .about {
-      grid-row: 1 / 3;
+      grid-row: 1 / 4;
+    }
+
+    .eligibility {
+      grid-column: 2;
+      grid-row: 1;
+    }
+
+    .application {
+      grid-column: 2;
+      margin-top: 32px;
     }
 
     .mentors {
-      grid-row: 3;
-      grid-column: span 2;
       display: grid;
+      grid-row: 4;
+      grid-column: span 2;
       grid-template-columns: 1fr 1fr;
     }
 
-    .mentors h3 {
+    .mentors h3,
+    .awardees h3 {
       grid-column: span 2;
+    }
+
+    .awardees {
+      display: grid;
+      grid-column: span 2;
+      grid-template-columns: 1fr 1fr;
     }
 
     .how-to {
