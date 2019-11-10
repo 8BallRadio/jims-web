@@ -29,6 +29,6 @@
     "vue-template-compiler": "^2.5.21"
   },
   "resolutions": { 
-    "**/**/lodash": "^4.17.12" 
+    "**/**/lodash": "^4.17.13" 
   }
 }
